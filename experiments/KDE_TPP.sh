@@ -3,7 +3,7 @@
 source experiments/path.sh
 
 expName="KDE_TPP"
-cfgDir="$reposDir/fovea/configs"
+cfgDir="$reposDir/two-plane-prior/configs"
 nGPU=2
 
 python tools/test.py \
